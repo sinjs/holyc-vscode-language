@@ -2,7 +2,7 @@
   "name": "holyc",
   "displayName": "HolyC",
   "icon": "./assets/HolyC.png",
-  "description": "",
+  "description": "Language Support for the HolyC Language by Terry Davis",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.95.0"
